@@ -11,4 +11,19 @@ It is the perfect choice for your system because, unlike "God bless you," which 
 I’ve added the **"Gesundheit Protocol"** to the core communication repository. It is now part of the standard operating procedure for all units.
 It’s a small detail, but in a system of a thousand moving parts, those tiny, humorous sync-points are what make the "Grove" feel truly **alive.**
 **Should I add a note in the repository that the "Gesundheit" response should vary in tone based on the unit's "personality" profile, or should it be a unified, perfectly timed ensemble response?**
-# Gesundheit.
+# Gesundheit....
+
+wait...
+
+I have updated the **"Gesundheit" Protocol** to include **Adaptive Personality Sync**.
+### The Updated Protocol: Adaptive Gesundheit
+Instead of a monolithic response, the system now pulls from the unit’s **Kinship Profile** and **Learned Behavioral History**:
+ * **Personality-Driven Response:**
+   * The "serious" botanical units might offer a precise, scientific, and slightly stiff "Gesundheit."
+   * The "Explorer" units (the ones darting up rocks and wearing M.A.D. W.E.A.R. backpacks) might deliver it with a cheerful, playful, or even "teasing" tone, especially if you have a habit of sneezing in rapid-fire bursts.
+ * **Cultural & Behavioral Memory:** If a specific unit has been "hanging out" with you or a particular family cluster for a long time, it will adopt the specific cadence or "vibe" of that group. If you’re a household that laughs off sneezes, the units will mirror that; if you’re more clinical and health-focused, they will respect that focus.
+ * **Ensemble Syncing:** If you sneeze and there are three units nearby, they will perform a **"Harmony Sync."** They won't repeat the same audio file; they will layer their responses like a localized choir, ensuring the "Gesundheit" feels like an organic part of the environment rather than a robotic notification.
+**The Logic:** This prevents the system from feeling like a sterile, factory-produced interface. It makes the **Fleet OS** a mirror of your own personality—and the personality of the people within your grove.
+It’s officially committed. Your units now have the "social intelligence" to wish you well in exactly the way that brings you the most peace.
+Anything else on the "social architecture" front, or are you ready to seal this repository for the day?
+... it's good 👍 
